@@ -8,6 +8,7 @@ namespace oop
 {
     public class Ellipse
     {
+        //test
         private float majorAxis;
         public float MajorAxis {
             get { return majorAxis; }
